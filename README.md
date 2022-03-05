@@ -71,11 +71,11 @@ For learning about database
 
 ### Screenshot:
 
-![alt text](assets/ScreenShot1.png)
+![Screenshot](Assets/ScreenShot1.png)
 
 ### Walkthrough Video:
 
-[![Watch the video](assets/ScreenShot2.png)](https://drive.google.com/file/d/1HpUJNOVXbrrU2902jLhfP5lewv5Nx91f/view?usp=sharing)
+[![Watch the video](Assets/ScreenShot2.png)](https://drive.google.com/file/d/1HpUJNOVXbrrU2902jLhfP5lewv5Nx91f/view?usp=sharing)
 
 ---
 
